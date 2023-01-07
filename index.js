@@ -6,7 +6,7 @@ import InfoRoutes from "./routes/InfoRoute.js";
 import TwilioRoutes from "./routes/TwilioRoute.js";
 
 const app = express();
-const PORT = process.env.PORT || 3030;
+const PORT = process.env.PORT || 8800;
 dotenv.config();
 mongoose.set('strictQuery', true);
 

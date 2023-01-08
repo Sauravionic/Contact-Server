@@ -1,6 +1,8 @@
-<h1>Contacts-Web-App</h1>
+<h1><a href="https://www.linkedin.com/in/saurav-srivastava-4b71b5188/">Contacts-Web-App</a></h1>
+<h2><a href="https://www.linkedin.com/in/saurav-srivastava-4b71b5188/">Link</a></h2>
 <hr><p>A React web app that can send an OTP ( via SMS ) to a list of Contacts, one at a time</p><h2>General Information</h2>
-<hr><ul>
+<hr>
+<ul>
 <li>A contact web app which serves the purpose of otp sending to one user at a time asynchronously.</li>
 </ul><ul>
 <li>It solves the issue of sending otp to users along with some extra message and can be used by any user to serve their purpose without extra credits or coding.</li>
